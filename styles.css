@@ -7,3 +7,8 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
 }
+
+.captions{
+    font-size: small;
+    font-style: italic;
+}
